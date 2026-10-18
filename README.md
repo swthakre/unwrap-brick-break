@@ -60,4 +60,4 @@ The simulation uses only `+ - * /` and `sqrt`, a fixed 120 Hz step and a seeded 
 
 ## Licence
 
-Not yet chosen. All rights reserved until the owner adds a licence.
+MIT. See [LICENSE](LICENSE). The licence covers the code only; the game name and any future artwork or trademarks are not licensed by it.
